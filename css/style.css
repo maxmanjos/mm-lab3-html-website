@@ -53,3 +53,11 @@ header{
     float:right;
     margin-top:10px;
   }
+
+  /* Showcase */
+#showcase{
+    min-height:400px;
+    background:url('../img/showcase.jpg') no-repeat 0 -400px;
+    text-align:center;
+    color:#ffffff;
+  }
